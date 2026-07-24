@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Priority Inbox AI",
+  "version": "1.0.0",
+  "description": "AI-powered Instagram DM prioritizer",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
